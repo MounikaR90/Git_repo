@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  Created Fileone.txt
 Adding changes.
+=======
+ Created Fileone.txt
+>>>>>>> 758727d32a0566a36e8d7a2fc6b5bb2415a3b846
 =======
  Created Fileone.txt
 >>>>>>> 758727d32a0566a36e8d7a2fc6b5bb2415a3b846
