@@ -1,2 +1,3 @@
 Adding filethree.txt
 Adding changes from the feature branch.
+adding more changes in newfeature branch file.
