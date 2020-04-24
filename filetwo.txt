@@ -1,4 +1,4 @@
 Adding filetwo.txt
 Adding more changes
 Some more changes
-
+This line will be stashed.
